@@ -1,0 +1,17 @@
+body{
+    background-color: lightyellow;
+    font-size: xx-large;
+    font-style: italic;
+    padding: 70px;
+    color: blue;
+}
+h2{
+    background-color: white;
+    font-size: xx-large;
+    font-style: oblique;
+    color: black;
+}
+.book{
+    color: burlywood;
+    padding: 5000px;
+}
