@@ -6,12 +6,12 @@ body{
     color: blue;
 }
 h2{
-    background-color: white;
+    background-color: rgb(97, 59, 80);
     font-size: xx-large;
     font-style: oblique;
     color: black;
 }
 .book{
-    color: burlywood;
+    color: rgb(135, 222, 181);
     padding: 5000px;
 }
